@@ -6,5 +6,5 @@ eureka:
     prefer-ip-address: true # This is also good practice for Docker/containerized environments
 
 order:
-  max: 5
-  currency: INR
+  max: 10
+  currency: $
