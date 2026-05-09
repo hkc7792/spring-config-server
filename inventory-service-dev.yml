@@ -5,6 +5,6 @@ eureka:
   instance:
     prefer-ip-address: true # This is also good practice for Docker/containerized environments
 
-product:
+inventory:
   max: 10
   currency: $
